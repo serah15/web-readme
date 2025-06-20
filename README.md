@@ -5,23 +5,23 @@ This is a static website project designed to promote animal welfare and shelter 
 ##  Live Pages 🌐
 
 - **Home**: `index.html`
-- **About Us**: `aboutUs.html`
-- **Contact**: `contactUs.html`
+- **About Us**: `about.html`
+- **Contact**: `contact.html`
 - **Enquiry Form**: `enquiry.html`
 - **Gallery**: `gallery.html`
-- **Products/Services**: `products&services.html`
+- **Products/Services**: `products.html`
 
 ##  Project Structure 📁
 
 ```
 web poe/
 ├── web/
-│   ├── aboutUs.html
-│   ├── contactUs.html
+│   ├── about.html
+│   ├── contact.html
 │   ├── enquiry.html
 │   ├── gallery.html
 │   ├── index.html
-│   ├── products&Services.html
+│   ├── products.html
 │   ├── styles.css
 │   ├── js/
 │   │   └── scripts.js
